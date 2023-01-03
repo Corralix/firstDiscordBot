@@ -1,0 +1,1 @@
+My first *OFFICIAL* Discord bot that I'll hopefully put SOME effort into.
